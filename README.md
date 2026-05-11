@@ -1,5 +1,5 @@
 
-# Digit Recognizer (Kaggle) — CS4661 Team: Hoang Le, Braedon Edison, Chiemela Eziechile - Nwoke, Rizza Barnwell, Washika Afrozi
+# Digit Recognizer (Kaggle) — CS4661 Team: Ryan Garcia, Braedon Edison, Chiemela Eziechile - Nwoke, Annie Lin, Kent Stark
 
 **Goal**: Classify 28×28 grayscale handwritten digits (0–9). Submit a CSV with columns `ImageId,Label` to Kaggle.
 
